@@ -5,6 +5,7 @@
 replicaCount: 1
 
 image:
+  tag: 0.1.0
   repository: us.gcr.io/larder-prod/kubewise
   pullPolicy: IfNotPresent
 
